@@ -1,0 +1,26 @@
+{
+  "name": "frontend-webtech-ss22-projekt-trung-justin",
+  "version": "1.0.0",
+  "description": "this is going to be my frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ho568979/Frontend-Webtech-SS22-Projekt-Trung-Justin.git"
+  },
+  "keywords": [
+    "tdd",
+    "js"
+  ],
+  "author": "Thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ho568979/Frontend-Webtech-SS22-Projekt-Trung-Justin/issues"
+  },
+  "homepage": "https://github.com/ho568979/Frontend-Webtech-SS22-Projekt-Trung-Justin#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
